@@ -102,10 +102,4 @@ The main objective of this project is to demonstrate the practical application o
 - Search and filter functionality.
 - More advanced recruitment and application management.
 
-## Author
 
-Developed as a C++ programming project.
-
----
-
-**If you find this project interesting, feel free to star ⭐ the repository!**
