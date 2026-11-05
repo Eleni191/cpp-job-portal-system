@@ -1,0 +1,22 @@
+# Executable files
+*.exe
+job_portal
+main
+
+# Generated data files
+employer.txt
+emp.txt
+jobs.txt
+application.txt
+interviews.txt
+interview_answers.txt
+hired.txt
+temp_app.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
